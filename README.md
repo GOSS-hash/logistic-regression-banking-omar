@@ -70,4 +70,4 @@ These services ensure our model stays updated, scalable, and maintainable, with 
 ## Quickstart
 
 ```bash
-git clone https://github.com/GOSS-hash/
+git clone https://github.com/GOSS-hash/logistic-regression-banking-omar
